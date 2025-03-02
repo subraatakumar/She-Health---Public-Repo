@@ -6,7 +6,7 @@ Hi, myself Myat! I have decided to contribute to the open-source project **Kind 
 
 ## My Goal: User Profile Screen
 
-I have set a clear goal for myself—to implement the **User Profile Screen** for the Kind Connect app. This screen will allow users to view and manage their profile information, ensuring a seamless and user-friendly experience. Additionally, I am grateful that Subrata sir will be reviewing my code, as his insights and feedback will help me refine my skills and grow into a better developer.
+I have set a clear goal for myself—to implement the **User Profile Screen** for the Kind Connect app. This screen will allow users to view and manage their profile information, ensuring a seamless and user-friendly experience. Additionally, I am grateful that Subrata sir will be reviewing my code, as his insights and feedback will help me refine my skills and grow into a better developer. Please stay connected and review my work, and share your feedback. I truly appreciate it and will be grateful to all.
 
 ### Tech Stack
 - **Framework:** React Native
