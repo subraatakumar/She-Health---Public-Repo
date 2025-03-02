@@ -19,8 +19,8 @@ Kind Connect is a platform that brings kind-hearted people together for meaningf
 ## 🔗 Let's Connect!
 I am actively searching for a **remote React Native role**, and I would love to connect with like-minded developers, recruiters, and mentors. Feel free to reach out to me:
 
-- **Myat's GitHub:** [Your GitHub Profile Link] 🏗
-- **Myat's LinkedIn:** [https://www.linkedin.com/in/myat-thiri-khin/] 💼
+- **[Myat's GitHub:](#)** 🏗
+- **[Myat's LinkedIn:](https://www.linkedin.com/in/myat-thiri-khin/)** 💼
 - **[KindConnect GitHub:](https://github.com/KindConnect)** 🐦
 
 Let's build something amazing together! 🚀
