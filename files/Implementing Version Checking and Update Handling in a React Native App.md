@@ -25,8 +25,8 @@ Example response from the backend:
 {
   "version": "1.0.0001",
   "releaseNotesLink": "https://shehealth.subraatakumar.com/release-notes",
-  "playStoreLink": "https://play.google.com/store/apps/details?id=com.hh.healthhub&hl=en",
-  "appStoreLink": "https://apps.apple.com/in/app/jiohealthhub/id1056115951"
+  "playStoreLink": "https://play.google.com/store/apps/details?id=com.subrata.shehealth&hl=en",
+  "appStoreLink": "https://apps.apple.com/in/app/"
 }
 ```
 
@@ -38,8 +38,8 @@ import { configs } from '@utils/configdata';
 configs.versionDetails = {
   version: '1.0.0000',
   releaseNotesLink: 'https://shehealth.subraatakumar.com/release-notes',
-  playStoreLink: 'https://play.google.com/store/apps/details?id=com.hh.healthhub&hl=en',
-  appStoreLink: 'https://apps.apple.com/in/app/jiohealthhub/id1056115951'
+  playStoreLink: 'https://play.google.com/store/apps/details?id=com.subrata.shehealth&hl=en',
+  appStoreLink: 'https://apps.apple.com/in/app/'
 };
 ```
 
