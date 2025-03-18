@@ -25,8 +25,8 @@ Example response from the backend:
 {
   "version": "1.0.0001",
   "releaseNotesLink": "https://shehealth.subraatakumar.com/release-notes",
-  "playStoreLink": "https://play.google.com/store/apps/details?id=com.subrata.shehealth&hl=en",
-  "appStoreLink": "https://apps.apple.com/in/app/"
+  "playStoreLink": "https://play.google.com/store/apps/details?id=com.subrata.shehealth",
+  "appStoreLink": "https://apps.apple.com/app/she-health-period-tracker/id6743358136"
 }
 ```
 
@@ -38,8 +38,8 @@ import { configs } from '@utils/configdata';
 configs.versionDetails = {
   version: '1.0.0000',
   releaseNotesLink: 'https://shehealth.subraatakumar.com/release-notes',
-  playStoreLink: 'https://play.google.com/store/apps/details?id=com.subrata.shehealth&hl=en',
-  appStoreLink: 'https://apps.apple.com/in/app/'
+  playStoreLink: 'https://play.google.com/store/apps/details?id=com.subrata.shehealth',
+  appStoreLink: 'https://apps.apple.com/app/she-health-period-tracker/id6743358136'
 };
 ```
 
